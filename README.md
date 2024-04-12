@@ -1,1 +1,18 @@
-# website
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Sam's Resume</title>
+      
+        <!-- stylesheet -->
+        <link rel="stylesheet" href="./style.css"/>
+    </head>
+    <body>
+        <div class="container">
+          <h1>Hello World!</h1>
+          <p>This is a sample paragraph.</p>
+        </div>
+      
+        <!-- script -->
+        <script src="./main.js"></script>
+    </body>
+</html>
