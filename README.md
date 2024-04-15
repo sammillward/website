@@ -15,7 +15,7 @@
       1. Educational History
       <ul>
       -Graduated Boise High School class of 2020
-      -Studied at BYU Hawaii (from Fall 2020 through June 2023, with a 2 year break from         2021 through 2022, during which time I was a volunteer representative for The             Church of Jesus Christ of Latter Day Saints
+      -Studied at BYU Hawaii (from Fall 2020 through June 2023, with a 2 year break from         2021 through 2022, during which time I was a volunteer representative for The Church of Jesus Christ of Latter Day Saints
       -Current student at BYU
       </ul>
       2. Employment History
@@ -26,8 +26,8 @@
       </ul>
       3. Volunteer Activities
       <ul>
-      -Eagle Scout project in 2016 - set up signs at a reserve informing people about an         endangered species of bird and asking them not to shoot them
-      -Spent almost 2 years (from January 2021-December 2022) as a volunteer                     representative for The Church of Jesus Christ of Latter Day Saints
+      -Eagle Scout project in 2016 - set up signs at a reserve informing people about an endangered species of bird and asking them not to shoot them
+      -Spent almost 2 years (from January 2021-December 2022) as a volunteer              representative for The Church of Jesus Christ of Latter Day Saints
       </ul>
       </ol>
         <!-- script -->
