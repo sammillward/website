@@ -15,7 +15,7 @@
       1. Educational History
       <ul>
       -Graduated Boise High School class of 2020
-      -Studied at BYU Hawaii
+      -Studied at BYU Hawaii (from Fall 2020 through June 2023, with a 2 year break from         2021 through 2022, during which time I was a volunteer representative for The             Church of Jesus Christ of Latter Day Saints
       -Current student at BYU
       </ul>
       2. Employment History
