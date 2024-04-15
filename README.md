@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+
 <html>
     <head>
         <title>Sam's Resume</title>
