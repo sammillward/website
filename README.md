@@ -33,7 +33,7 @@
         <!-- script -->
         <script src="./main.js"></script>
     <a href="http://127.0.0.1:5500/myfinalproject.html">A bit more about me here </a>
-    <embed src = "https://www.youtube.com/watch?v=UPdsywUEX6s"
+    <embed src = "[https://www.youtube.com/watch?v=UPdsywUEX6s"](https://www.youtube.com/watch?v=p4Vpj9psAQM)
          wmode="transparent" width="425" height="350"
     />
     </body>
