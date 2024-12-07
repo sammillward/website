@@ -31,6 +31,6 @@
       </ul>
       </ol>
     <a href="http://127.0.0.1:5500/myfinalproject.html">A bit more about me here </a>
-<embed>[![YouTube](http://i.ytimg.com/vi/rIkvjihvaWU/hqdefault.jpg)](https://www.youtube.com/watch?v=rIkvjihvaWU)</embed>
+<embed>[![YouTube](http://i.ytimg.com/vi/rIkvjihvaWU/hqdefault.jpg)](https://www.youtube.com/watch?v=rIkvjihvaWU)</a>
     </body>
 </html>
