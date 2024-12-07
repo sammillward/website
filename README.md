@@ -6,8 +6,7 @@
         <!-- stylesheet -->
         <style>
         <a href="styles.css"> stylesheet </a>
-body{background-color: red;
-text-align: center;}
+
 </style>
     </head>
     <body>
