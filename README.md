@@ -28,6 +28,9 @@
       </ul>
       </ol>
     <a href="http://127.0.0.1:5500/myfinalproject.html">A bit more about me here </a>
-[![Video](https://www.youtube.com/watch?v=uQJtFnH96-Q&t=825s)(https://www.youtube.com/watch?v=uQJtFnH96-Q&t=825s)
+<embed 
+img=[![EmbeddedVideo](https://img.youtube.com/vi/uQJtFnH96-Q.jpg)]
+src= (https://www.youtube.com/watch?v=uQJtFnH96-Q)
+/>
     </body>
 
