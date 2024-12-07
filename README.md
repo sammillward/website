@@ -2,7 +2,7 @@
     <head>
         <title>Sam's Resume</title>
 <styles>
-    <a href="https://github.com/sammillward/website/blob/main/IS201FP/styles.css">styles</a>
+    <a href="styles.css">styles</a>
 </styles>
     </head>
     <body>
