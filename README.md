@@ -2,7 +2,9 @@
     <head>
         <title>Sam's Resume</title>
 
-    <a href="styles.css">styles</a>
+  <styles>
+      <a href="styles.css">stylestouse</a>
+  </styles>
 
     </head>
     <body>
