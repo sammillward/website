@@ -28,8 +28,8 @@
       </ul>
       </ol>
     <a href="http://127.0.0.1:5500/myfinalproject.html">A bit more about me here </a>
-  <embed src=(https://www.youtube.com/watch?v=4OMdzHnys9o)
+  <embed src=[(https://www.youtube.com/watch?v=4OMdzHnys9o)
          type="Youtube-video"
-         wmode="transparent" width="425" height="350" />
+         wmode="transparent" width="425" height="350" />](https://www.youtube.com/watch?v=4OMdzHnys9o)/>
     </body>
 
