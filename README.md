@@ -5,6 +5,7 @@
       
         <!-- stylesheet -->
         <style>
+        <a href="styles.css"> stylesheet </a>
 body{background-color: aqua;
 text-align: center;}
 </style>
