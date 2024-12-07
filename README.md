@@ -1,9 +1,9 @@
 <html>
     <head>
         <title>Sam's Resume</title>
-<styles>
+
     <a href="styles.css">styles</a>
-</styles>
+
     </head>
     <body>
         <div class="container">
