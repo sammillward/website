@@ -22,7 +22,7 @@
       <ul>
       <li>Cashier at Carls Jr (May 2019 - June 2019, April 2020 - June 2020)</li>
       <li>Paint Associate at Home Depot (July 2020 - October 2020)</li>
-      <li>Safety inspector at Chick-Fil-A (July 2023-Present)</li>
+      <li>Worked at Chick-Fil-A (July 2023 - November 2024)</li>
       </ul>
       3. Volunteer Activities
       <ul>
