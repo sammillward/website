@@ -28,10 +28,8 @@
       </ul>
       </ol>
     <a href="http://127.0.0.1:5500/myfinalproject.html">A bit more about me here </a>
-
-
-<embed
-src=https://www.youtube.com/watch?v=4OMdzHnys9o
-        />
+  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
     </body>
 
