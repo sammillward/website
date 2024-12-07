@@ -2,10 +2,7 @@
 <html>
     <head>
         <title>Sam's Resume</title>
-      
-        <!-- stylesheet -->
-        <style>
-        <a href="styles.css"> stylesheet </a>
+ 
 
     </head>
     <body>
