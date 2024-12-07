@@ -29,6 +29,6 @@
       </ol>
     <a href="http://127.0.0.1:5500/myfinalproject.html">A bit more about me here </a>
 
-[![Watch on YouTube](https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Watch on YouTube](https://img.youtube.com/vi/MlF1mf6s94w.jpg)](https://www.youtube.com/watch?v=MlF1mf6s94w)
     </body>
 
