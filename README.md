@@ -2,9 +2,12 @@
 <html>
     <head>
         <title>Sam's Resume</title>
-        
+      
         <!-- stylesheet -->
-        <link rel="stylesheet" href="./style.css"/>
+        <style>
+body{background-color: aqua;
+text-align: center;}
+</style>
     </head>
     <body>
         <div class="container">
