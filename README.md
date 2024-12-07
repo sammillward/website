@@ -2,9 +2,9 @@
 <html>
     <head>
         <title>Sam's Resume</title>
-<style>
-    body{background-color: aqua}
-</style>
+        <styles>
+            <a href="styles.css">stylesheet</a>
+        </styles>
     </head>
     <body>
         <div class="container">
