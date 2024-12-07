@@ -1,7 +1,9 @@
 <html>
     <head>
         <title>Sam's Resume</title>
-<a href="styles.css">styles</a>
+<styles>
+    <a href="https://github.com/sammillward/website/blob/main/IS201FP/styles.css">styles</a>
+</styles>
     </head>
     <body>
         <div class="container">
