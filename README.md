@@ -7,7 +7,6 @@
         <style>
         <a href="styles.css"> stylesheet </a>
 
-</style>
     </head>
     <body>
         <div class="container">
