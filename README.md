@@ -6,7 +6,9 @@
         <!-- stylesheet -->
         <style>
         <a href="styles.css"> stylesheet </a>
-
+<style>
+    body{background-color: aqua}
+</style>
     </head>
     <body>
         <div class="container">
