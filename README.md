@@ -31,7 +31,7 @@
 
 
 <embed
-src=[![YouTube](http://i.ytimg.com/vi/4OMdzHnys9o/hqdefault.jpg)](https://www.youtube.com/watch?v=4OMdzHnys9o)
+src=https://www.youtube.com/watch?v=4OMdzHnys9o
         />
     </body>
 
