@@ -31,6 +31,74 @@
       </ul>
       </ol>
     <a href="http://127.0.0.1:5500/myfinalproject.html">A bit more about me here </a>
+
+<!-- Embed Code for YouTube Video Player with Plyr -->
+<div id="player-container" style="max-width: 1000px; margin: 0 auto;"></div>
+
+<script>
+(function() {
+    function initPlyrPlayer(videoId, containerId) {
+        if (!document.getElementById(containerId)) {
+            console.error(`Container with id "${containerId}" not found.`);
+            return;
+        }
+
+        if (!document.querySelector('link[href="https://cdn.plyr.io/3.7.2/plyr.css"]')) {
+            const plyrCSS = document.createElement('link');
+            plyrCSS.rel = 'stylesheet';
+            plyrCSS.href = 'https://cdn.plyr.io/3.7.2/plyr.css';
+            document.head.appendChild(plyrCSS);
+        }
+
+        if (!document.querySelector('script[src="https://cdn.plyr.io/3.7.2/plyr.js"]')) {
+            const plyrScript = document.createElement('script');
+            plyrScript.src = 'https://cdn.plyr.io/3.7.2/plyr.js';
+            document.body.appendChild(plyrScript);
+            plyrScript.onload = () => setupPlayer(videoId, containerId);
+        } else {
+            setupPlayer(videoId, containerId);
+        }
+    }
+
+    function setupPlayer(videoId, containerId) {
+        const container = document.getElementById(containerId);
+        container.innerHTML = `
+            <div class="plyr__video-embed" id="player">
+                <iframe src="https://www.youtube.com/embed/${videoId}?rel=0&showinfo=0&modestbranding=1&enablejsapi=1&origin=*&playlist=${videoId}&loop=1&iv_load_policy=3"
+                        allowfullscreen
+                        allow="autoplay; encrypted-media">
+                </iframe>
+            </div>
+        `;
+
+        const style = document.createElement('style');
+        style.textContent = `
+            #${containerId} .plyr__video-embed iframe {
+                aspect-ratio: 16 / 9;
+                width: 100%;
+            }
+            #${containerId} .plyr__video-embed iframe {
+                pointer-events: none;
+            }
+        `;
+        document.head.appendChild(style);
+
+        new Plyr(`#${containerId} .plyr__video-embed`, {
+            youtube: {
+                noCookie: true,
+                rel: 0,           
+                showinfo: 0,     
+                iv_load_policy: 3,
+                modestbranding: 1 
+            }
+        });
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+        initPlyrPlayer('iadzYtX4ERU', 'player-container');
+    });
+})();
+</script>
     
     </body>
 </html>
