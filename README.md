@@ -1,7 +1,7 @@
 <html>
     <head>
         <title>Sam's Resume</title>
-<a href="styles.css">stylesheet</a>
+<a href="styles.css 1">stylesheet</a>
     </head>
     <body>
         <div class="container">
