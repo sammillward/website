@@ -34,7 +34,7 @@
         <script src="./main.js"></script>
     <a href="http://127.0.0.1:5500/myfinalproject.html">A bit more about me here </a>
 
-    />
+   
 
     </body>
 </html>
