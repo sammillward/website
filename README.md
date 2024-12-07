@@ -35,5 +35,4 @@ text-align: center;}
       </ul>
       </ol>
     <a href="http://127.0.0.1:5500/myfinalproject.html">A bit more about me here </a>
-[![video is broken]]([Video Link](https://youtu.be/Q2csjyid7c8?si=EaD5A4XAkgcSefz7))
     </body>
