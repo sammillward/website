@@ -3,7 +3,7 @@
     <head>
         <title>Sam's Resume</title>
 <style>
-    <a href="styles.css">styles</a>
+    body{background-color: aqua}
 </style>
     </head>
     <body>
